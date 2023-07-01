@@ -1,0 +1,20 @@
+header{
+background-color:grey; 
+}
+
+
+h2 { 
+    background-color: red; 
+    text-emphasis-color: white; 
+}
+
+h3 { 
+    background-color: blue; 
+    text-emphasis-color: black; 
+}
+
+img{
+    width: 250px; 
+    height: 250px; 
+
+}
