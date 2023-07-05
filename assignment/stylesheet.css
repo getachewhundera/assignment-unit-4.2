@@ -1,20 +1,31 @@
-header{
-background-color:grey; 
+header { 
+background-color: rgb(186, 179, 179); 
 }
 
+.container{
+    display: inline-block;
+    justify-content: center;
+    border: solid white 10px;
+    margin-left: 35%;
+    }
 
-h2 { 
+.info h2 { 
+    text-align: center; 
     background-color: red; 
     text-emphasis-color: white; 
+    
 }
 
-h3 { 
+.info h3 { 
+    text-align: center;
     background-color: blue; 
     text-emphasis-color: black; 
 }
 
-img{
-    width: 250px; 
-    height: 250px; 
+.info img{
+    width: 600px; 
+    height: 600px;
+    border: solid black 5px; 
+
 
 }
